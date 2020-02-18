@@ -30,12 +30,12 @@ pyautogui.click(25, 161)
 pyautogui.PAUSE = 1
 pyautogui.hotkey('ctrl', 'a')
 pyautogui.PAUSE = 1
-pyautogui.typewrite('vamsi.guttikonda')
+pyautogui.typewrite('****')
 pyautogui.PAUSE = 3
 pyautogui.click(78, 194)
 pyautogui.PAUSE = 1
 pyautogui.hotkey('ctrl', 'a')
-pyautogui.typewrite('Corei7@1234567')
+pyautogui.typewrite('****')
 pyautogui.PAUSE = 1
 pyautogui.click(43, 212)
 pyautogui.PAUSE = 10
